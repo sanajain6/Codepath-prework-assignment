@@ -57,11 +57,6 @@ I would allow the player to pick a level of difficulty, easy, medium, or hard. D
 
 
 
-## Interview Recording URL Link
-
-https://usc.zoom.us/rec/share/chL_MBrCjcxeX-omloKs-RUcmK1DV3_Bq_hgXL43DqTsZlWa07D_rWStuubPqCHk.vKpM1LFHMKJDozEW?startTime=1648868780000)
-
-
 ## License
 
     Copyright Sana Jain
